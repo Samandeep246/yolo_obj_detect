@@ -3,7 +3,6 @@ tensorflow>=1.8.0
 keras==2.4.3
 numpy==1.19.3
 pillow==8.1.1
-scipy==1.4.1
 h5py==2.10.0
 opencv-python
 keras-resnet==0.2.0
@@ -18,3 +17,4 @@ tqdm>=4.41.0
 tensorboard>=2.4.1
 seaborn>=0.11.0
 pycocotools>=2.0
+scipy==1.4.1
